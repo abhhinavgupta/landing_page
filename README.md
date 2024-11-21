@@ -1,1 +1,1 @@
-# landing_page
+Made using HTML CSS within 2 hours.
